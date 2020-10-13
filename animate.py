@@ -19,7 +19,7 @@ HEIGHT = 600
 FPS = 15
 
 # Frame on which to start generating animation
-START_FRAME = 60
+START_FRAME = 0
 
 # Set size and font for dots and labels
 DOT_RADIUS = 5
